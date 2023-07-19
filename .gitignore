@@ -1,0 +1,57 @@
+# macOS
+.DS_Store
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Android
+android/build/
+android/app/build/
+*.apk
+
+# iOS
+ios/Pods/
+ios/build/
+ios/Podfile.lock
+ios/Podfile.user.lock
+
+# Bundle
+.bundle/
+
+# Environment variables
+.env
+
+# Visual Studio Code
+.vscode/
+
+# IDE-specific
+.idea/
+*.iml
+
+# Miscellaneous
+logs/
+*.log
+*.log.*
+*.swp
+*.swo
+*.tmp
+*.bak
+*.backup
+*.cache
+*.sublime-*
+*.sublime-workspace
+*.sublime-project
+.svn/
+.idea/
+.project
+.buildpath
+.settings/
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# Custom exclusions
+key/
